@@ -12,20 +12,13 @@ Processed many GB of mobility data and extracted valuable insights.
 Built Dashboards and visuals which helped the client take critical decisions.
 Used Machine Learning to find bottlenecks and helped the company increase its revenue.
 
+
 ## Architecture of the project
 You can find 3 notebook folders: 
 - Exploratory data notebooks: Where I ingested the data and explored it.
 - Preprocessing data notebooks: Where I cleaned each of the 3 data samples and visualized it
 - Analysis notebooks: Where I analyzed the data to extract its quality and make dashboards and reports.
 
-## 2. Data Preprocessing
-
-Data preprocessing includes adding a 'city' column using mapping with a shapefile. The GeoPandas library is used for this purpose. 
-
-The steps involve:
-- Installing GeoPandas.
-- Creating a 'coords' column from longitude and latitude.
-- Reading the shapefile containing city names and boundaries.
 
 ## Data Quality & Analysis Overview
 
@@ -55,8 +48,3 @@ The steps involve:
 |Average number of unique device IDs per hour, excluding outliers.|        |
 |Variability in the average interval between records for each device ID.|        |
 |Variability in the average interval between records for each device ID, excluding outliers.|        |
-
-### Visualizations
-
-Visual representations such as bar plots are used to illustrate data trends and distributions. (Include links or images if available)
-
