@@ -1,4 +1,4 @@
-# Mobility Analaysis project
+# Mobility Analysis project
 
 ## Overview
 **Important Note :** I have done this project for a client and I have only shared the things that are not confidential.
@@ -8,10 +8,29 @@ You can find many exciting things like how to process mobility data, create flow
 
 ## Key Achievements
 
-Processed many GB of mobility data and extracted valuable insights.
-Built Dashboards and visuals which helped the client take critical decisions.
-Used Machine Learning to find bottlenecks and helped the company increase its revenue.
+- Processed many GB of mobility data and extracted valuable insights.
 
+<div style="display: flex;margin:10px;margin-bottom:20px">
+  <img src="images/example-data-analysis.png" alt="data analysis" style="width: 100%"/>
+</div>
+
+- Built PowerBI Dashboards and visuals which helped the client take critical decisions.
+<div style="display: flex;margin:10px;margin-bottom:20px">
+  <img src="images/PowerBi-dashboard.png" alt="data analysis" style="width: 100%"/>
+</div>
+
+- Built HeatMaps and analyzed mobility flow data.
+<div style="display: flex;margin:10px;margin-bottom:20px">
+  <img src="images/heatmap.jpg" alt="heatmap" style="width: 60%"/>
+  <img src="images/mobility-flow.jpg" alt="Mobility Flow" style="width: 40%;"/>
+</div>
+
+- Performed a spatial analysis on mobility data, where the scope was limited to specific, pre-defined areas for an in-depth comparative study.
+<div style="display: flex;margin:10px;margin-bottom:20px">
+  <img src="images/all-rabat.png" alt="heatmap" style="width: 33%"/>
+  <img src="images/inside-perimeter.png" alt="Mobility Flow" style="width: 33%;"/>
+  <img src="images/outside-perimeter.png" alt="Mobility Flow" style="width: 33%;"/>
+</div>
 
 ## Architecture of the project
 You can find 3 notebook folders: 
@@ -19,16 +38,7 @@ You can find 3 notebook folders:
 - Preprocessing data notebooks: Where I cleaned each of the 3 data samples and visualized it
 - Analysis notebooks: Where I analyzed the data to extract its quality and make dashboards and reports.
 
-
-## Data Quality & Analysis Overview
-
-### a. Key Information Extracted
-
-- Temporal range of the data.
-- Null values per column.
-- Geographical distribution of the data.
-
-### b. Key Performance Indicators (KPIs)
+## List of Key Performance Indicators (KPIs)
 
 | KPI Description                                    | Details                                              |
 | -------------------------------------------------- | ---------------------------------------------------- |
