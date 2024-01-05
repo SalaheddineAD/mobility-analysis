@@ -21,15 +21,15 @@ You can find many exciting things like how to process mobility data, create flow
 
 - Built HeatMaps and analyzed mobility flow data.
 <div style="display: flex;margin:10px;margin-bottom:20px">
-  <img src="images/heatmap.jpg" alt="heatmap" style="width: 60%"/>
-  <img src="images/mobility-flow.jpg" alt="Mobility Flow" style="width: 40%;"/>
+  <img src="images/heatmap.jpg" alt="heatmap" style="width: 45%"/>
+  <img src="images/mobility-flow.jpg" alt="Mobility Flow" style="width: 33%;"/>
 </div>
 
 - Performed a spatial analysis on mobility data, where the scope was limited to specific, pre-defined areas for an in-depth comparative study.
 <div style="display: flex;margin:10px;margin-bottom:20px">
-  <img src="images/all-rabat.png" alt="heatmap" style="width: 33%"/>
-  <img src="images/inside-perimeter.png" alt="Mobility Flow" style="width: 33%;"/>
-  <img src="images/outside-perimeter.png" alt="Mobility Flow" style="width: 33%;"/>
+  <img src="images/all-rabat.png" alt="heatmap" style="width: 25%"/>
+  <img src="images/inside-perimeter.png" alt="Mobility Flow" style="width: 25%;"/>
+  <img src="images/outside-perimeter.png" alt="Mobility Flow" style="width: 25%;"/>
 </div>
 
 ## Architecture of the project
